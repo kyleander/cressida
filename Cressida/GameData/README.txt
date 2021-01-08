@@ -1,1 +1,0 @@
-Copy the Kerbaltek folder into your GameData.
