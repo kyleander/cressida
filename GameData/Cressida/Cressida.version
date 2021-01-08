@@ -1,12 +1,12 @@
 {
 	"NAME"		: "Cressida",
-	"URL"		: "https://raw.githubusercontent.com/kyleander/cressida/main/Cressida.version",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScale/master/TweakScale.version",
 	"DOWNLOAD"	: "https://github.com/kyleander/cressida/releases",
-	"CHANGE_LOG"	: "https://raw.githubusercontent.com/kyleander/cressida/main/Change_Log.md",
-	"CHANGE_LOG_URL": "https://github.com/kyleander/cressida/blob/main/Changes.md",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/kyleander/cressida/main/Change_Log.txt",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/kyleander/cressida/main/Changes.txt",
 	"VERSION":{
 		"MAJOR":1,
-		"MINOR":0,
+		"MINOR":1,
 		"PATCH":0,
 		"BUILD":1
 		},
