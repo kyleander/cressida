@@ -1,4 +1,4 @@
-1.1
+Version 1.1
 Added atmosphere to Eeloo
 Made Jool's atmosphere more thick
 Update configs
